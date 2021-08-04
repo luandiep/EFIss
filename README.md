@@ -1,0 +1,2 @@
+# EFI
+BigSur_EFI
